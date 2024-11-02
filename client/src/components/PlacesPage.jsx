@@ -95,7 +95,7 @@ export default function PlacesPage ()
               </div>
 
               <div>
-                <h3 className="mb-1">Max No of Guests</h3>
+                <h3 className="mb-1">Max No of Guests:</h3>
                 <input type="number" 
                 placeholder="4"
                 className="w-full border my-1 py-2 px-3 rounded-2xl"
