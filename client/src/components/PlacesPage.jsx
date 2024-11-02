@@ -4,7 +4,7 @@ import Perks from "./Perks"
 export default function PlacesPage ()
 {
  const {action} = useParams()
- const [title,setTitle] = useState('')
+ const [title,setTitle] = useState(' ')
  const [address,setAddress] = useState('')
  const [addPhoto,setAddPhoto] = useState([])
  const [photoByLink,setPhotoByLink] = useState('')
